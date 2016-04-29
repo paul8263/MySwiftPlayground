@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'/>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Builtin Keyword'/>
+        <page name='Character Set'/>
+        <page name='Delegate'/>
+        <page name='Exit Program'/>
+        <page name='Functional Programming'/>
+        <page name='HTMLString'/>
+        <page name='Operator Overload'/>
+        <page name='Protocol Extension'/>
+        <page name='Subscription'/>
+        <page name='Weak Var'/>
+        <page name='EnumSwitchMatching'/>
+        <page name='WillSetDidSet'/>
+    </pages>
+</playground>
